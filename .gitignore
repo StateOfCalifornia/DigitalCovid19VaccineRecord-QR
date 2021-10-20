@@ -87,7 +87,7 @@ typings/
 dist
 out
 
-# Azure Functions artifacts
+# #Azure Functions artifacts
 bin
 obj
 appsettings.json
