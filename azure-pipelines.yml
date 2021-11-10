@@ -34,3 +34,13 @@ steps:
   displayName: 'Publish Artifact: drop'
   inputs:
     PathtoPublish: 'd:\a\1\s\'
+
+- task: Veracode@3
+  inputs:
+    ConnectionDetailsSelection: 'Endpoint'
+    AnalysisService: 'Veracode'
+    veracodeAppProfile: 'opensource.dvr.qrcode'
+    version: '$(build.buildNumber)'
+    filepath: 'd:\a\1\s\'
+    createProfile: true
+    maximumWaitTime: '360'
