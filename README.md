@@ -15,9 +15,9 @@ California's implementation of the application is a three-tier, logically and ph
 
 # Code Repos
 There are a total of three code repositories:
-1.	DigitalCovid19VaccineRecord-UI
-2.	DigitalCovid19VaccineRecord-API
-3.	DigitalCovid19VaccineRecord-QR
+1.	[DigitalCovid19VaccineRecord-UI](https://github.com/StateOfCalifornia/DigitalCovid19VaccineRecord-UI)
+2.	[DigitalCovid19VaccineRecord-API](https://github.com/StateOfCalifornia/DigitalCovid19VaccineRecord-API)
+3.	[DigitalCovid19VaccineRecord-QR](https://github.com/StateOfCalifornia/DigitalCovid19VaccineRecord-QR)
 
 Please view the readme file in each repo for further details.
 
